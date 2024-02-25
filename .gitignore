@@ -1,0 +1,6 @@
+gen_execve_bpfel.o
+gen_execve_bpfel.go
+go.mod
+go.sum
+hello
+vmlinux.h
